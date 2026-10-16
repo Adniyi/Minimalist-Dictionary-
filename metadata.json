@@ -1,0 +1,7 @@
+{
+  "name": "Minimalist Offline Dictionary",
+  "description": "Fast, minimalist English dictionary with offline lookup, dual fail-safe APIs, voice pronunciation, IPA phonetics, examples, and synonyms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

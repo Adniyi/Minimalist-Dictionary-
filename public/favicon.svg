@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" fill="none">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="0" y2="64" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#27272a"/>
+      <stop offset="100%" stop-color="#09090b"/>
+    </linearGradient>
+  </defs>
+  <!-- App Logo Tile (matches site header logo) -->
+  <rect width="64" height="64" rx="16" fill="url(#bgGrad)"/>
+  <rect x="0.5" y="0.5" width="63" height="63" rx="15.5" stroke="#3f3f46" stroke-opacity="0.4" fill="none"/>
+  
+  <!-- BookOpen Icon -->
+  <g transform="translate(14, 14) scale(1.5)" stroke="#fafafa" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <path d="M12 7v14"/>
+    <path d="M3 18a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h5a4 4 0 0 1 4 4 4 4 0 0 1 4-4h5a1 1 0 0 1 1 1v13a1 1 0 0 1-1 1h-6a3 3 0 0 0-3 3 3 3 0 0 0-3-3z"/>
+  </g>
+</svg>
